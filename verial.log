@@ -1,0 +1,1704 @@
+Linea de comando: 
+Ruta fuente: C:\Users\David\Downloads\verial\Instalaciones Windows
+Ejecutando instalación de controladores SQL (SQLREDIS.EXE).
+SPAWN VARIOS\SQLREDIS.EXE:
+Se ha forzado la finalización del proceso SetupRE.EXE.
+SPAWN VARIOS\SQLREDIS.EXE: 0
+Error en WNetOpenEnum()
+Error en EnumerateFunc Recursiva
+Buscando unidades locales...
+Probando si se puede escribir: C:\DUMMY.$$$
+C:\INSTALACIONES VERIAL\Directorio: 'C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\*.*' (22 Ficheros, 138476 Bytes)
+Directorio: 'C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\*.*' (24 Ficheros, 435846 Bytes)
+Directorio: 'C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\DATOS\*.*' (1 Ficheros, 17318400 Bytes)
+Directorio: 'C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\*.*' (75 Ficheros, 85451288 Bytes)
+Directorio: 'C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\report\*.*' (0 Ficheros, 0 Bytes)
+Directorio: 'C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\*.*' (102 Ficheros, 105232299 Bytes)
+Directorio: 'C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT\log\*.*' (1 Ficheros, 623 Bytes)
+Directorio: 'C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT\motor\*.*' (1 Ficheros, 21774 Bytes)
+Directorio: 'C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT\*.*' (5 Ficheros, 4188432 Bytes)
+Directorio: 'C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\*.*' (24 Ficheros, 6419656 Bytes)
+Directorio: 'C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\OCX\*.*' (4 Ficheros, 5427895 Bytes)
+Directorio: 'C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\*.*' (44 Ficheros, 971946 Bytes)
+Directorio: 'C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\*.*' (11 Ficheros, 6626121 Bytes)
+Directorio: 'C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\*.*' (90 Ficheros, 32602402 Bytes)
+Directorio: 'C:\Users\David\Downloads\verial\Instalaciones Windows\INSTALAR.INF' (1 Ficheros, 30 Bytes)
+Ruta: 'C:' 123978113024 bytes libres.
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\INSTALAR.INF (30 Bytes - Mon Feb 17 12:55:01 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\INSTALAR.INF
+OK
+copiadir C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS C:\INSTALACIONES VERIAL\VARIOS
+copiadir C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT C:\INSTALACIONES VERIAL\VARIOS\AEAT
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT\ADMON.TAB C:\INSTALACIONES VERIAL\VARIOS\AEAT\ADMON.TAB
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT\ADMON.TAB (5015 Bytes - Thu Jan 19 12:20:56 2012
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\AEAT\ADMON.TAB
+OK
+copiadir C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT\log C:\INSTALACIONES VERIAL\VARIOS\AEAT\log
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT\log\log4j.properties C:\INSTALACIONES VERIAL\VARIOS\AEAT\log\log4j.properties
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT\log\log4j.properties (623 Bytes - Mon Jul 09 11:46:56 2012
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\AEAT\log\log4j.properties
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT\mipf13pdf.bat C:\INSTALACIONES VERIAL\VARIOS\AEAT\mipf13pdf.bat
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT\mipf13pdf.bat (93 Bytes - Mon Feb 04 11:23:06 2013
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\AEAT\mipf13pdf.bat
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT\mipf13pdf.jar C:\INSTALACIONES VERIAL\VARIOS\AEAT\mipf13pdf.jar
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT\mipf13pdf.jar (4160927 Bytes - Tue Feb 19 13:24:28 2013
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\AEAT\mipf13pdf.jar
+OK
+copiadir C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT\motor C:\INSTALACIONES VERIAL\VARIOS\AEAT\motor
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT\motor\MotorMipf2013.jar C:\INSTALACIONES VERIAL\VARIOS\AEAT\motor\MotorMipf2013.jar
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\AEAT\motor\MotorMipf2013.jar (21774 Bytes - Mon Feb 04 15:00:42 2013
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\AEAT\motor\MotorMipf2013.jar
+OK
+copiadir C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\asycfilt.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\asycfilt.dll
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\asycfilt.dll (65024 Bytes - Thu Aug 19 16:41:46 2004
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\asycfilt.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\cmdlges.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\cmdlges.dll
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\cmdlges.dll (33280 Bytes - Tue Jul 28 01:00:00 1998
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\cmdlges.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\comcat.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\comcat.dll
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\comcat.dll (4608 Bytes - Fri Mar 28 13:00:00 2003
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\comcat.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\comdlg32.ocx C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\comdlg32.ocx
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\comdlg32.ocx (152848 Bytes - Mon Mar 08 23:00:00 2004
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\comdlg32.ocx
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\mscmces.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\mscmces.dll
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\mscmces.dll (140800 Bytes - Tue Jul 28 01:00:00 1998
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\mscmces.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\mscomctl.ocx C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\mscomctl.ocx
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\mscomctl.ocx (1081616 Bytes - Mon Mar 08 23:00:00 2004
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\mscomctl.ocx
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\mscomes.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\mscomes.dll
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\mscomes.dll (14336 Bytes - Tue Jul 28 01:00:00 1998
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\mscomes.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\mscomm32.ocx C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\mscomm32.ocx
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\mscomm32.ocx (103744 Bytes - Wed Jun 24 01:00:00 1998
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\mscomm32.ocx
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\msmapi32.ocx C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\msmapi32.ocx
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\msmapi32.ocx (137000 Bytes - Wed Jun 24 01:00:00 1998
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\msmapi32.ocx
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\msvbvm60.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\msvbvm60.dll
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\msvbvm60.dll (1386496 Bytes - Sun Feb 22 23:00:00 2004
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\msvbvm60.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\msvcrt.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\msvcrt.dll
+Thu Dec 04 13:12:12 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\msvcrt.dll (343040 Bytes - Thu Aug 19 16:42:18 2004
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\msvcrt.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\oleaut32.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\oleaut32.dll
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\oleaut32.dll (569344 Bytes - Fri Aug 24 12:00:00 2001
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\oleaut32.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\olepro32.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\olepro32.dll
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\olepro32.dll (106496 Bytes - Fri Aug 24 12:00:00 2001
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\olepro32.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\rchtxes.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\rchtxes.dll
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\rchtxes.dll (34816 Bytes - Tue Jul 28 01:00:00 1998
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\rchtxes.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\riched20.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\riched20.dll
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\riched20.dll (415744 Bytes - Fri Mar 28 13:00:00 2003
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\riched20.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\riched32.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\riched32.dll
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\riched32.dll (3584 Bytes - Fri Mar 28 13:00:00 2003
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\riched32.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\richtx32.ocx C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\richtx32.ocx
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\richtx32.ocx (212240 Bytes - Mon Mar 08 23:00:00 2004
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\richtx32.ocx
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\scrrnes.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\scrrnes.dll
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\scrrnes.dll (12288 Bytes - Fri Mar 28 13:00:00 2003
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\scrrnes.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\scrrun.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\scrrun.dll
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\scrrun.dll (151552 Bytes - Thu Aug 19 16:42:24 2004
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\scrrun.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\stdole2.tlb C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\stdole2.tlb
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\stdole2.tlb (16896 Bytes - Fri Mar 28 13:00:00 2003
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\stdole2.tlb
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\tabctl32.ocx C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\tabctl32.ocx
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\tabctl32.ocx (224016 Bytes - Mon Mar 08 23:00:00 2004
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\tabctl32.ocx
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\vb6es.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\vb6es.dll
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\vb6es.dll (119568 Bytes - Mon Oct 02 01:00:00 2000
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\vb6es.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\vb6stkit.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\vb6stkit.dll
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\vb6stkit.dll (101888 Bytes - Thu Jun 03 01:00:00 1999
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\vb6stkit.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\vfpodbc.dll C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\vfpodbc.dll
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\DLLS COMUNES\vfpodbc.dll (988432 Bytes - Tue May 08 03:00:00 2001
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\vfpodbc.dll
+OK
+copiadir C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\OCX C:\INSTALACIONES VERIAL\VARIOS\OCX
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\OCX\MemoEdit.RPT C:\INSTALACIONES VERIAL\VARIOS\OCX\MemoEdit.RPT
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\OCX\MemoEdit.RPT (695 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\OCX\MemoEdit.RPT
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\OCX\VerialCtl.ocx C:\INSTALACIONES VERIAL\VARIOS\OCX\VerialCtl.ocx
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\OCX\VerialCtl.ocx (2150400 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\OCX\VerialCtl.ocx
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\OCX\VerialDataComponents.ocx C:\INSTALACIONES VERIAL\VARIOS\OCX\VerialDataComponents.ocx
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\OCX\VerialDataComponents.ocx (811008 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\OCX\VerialDataComponents.ocx
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\OCX\VerialReports.ocx C:\INSTALACIONES VERIAL\VARIOS\OCX\VerialReports.ocx
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\OCX\VerialReports.ocx (2465792 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\OCX\VerialReports.ocx
+OK
+copiadir C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#10-TPV táctil.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#10-TPV táctil.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#10-TPV táctil.jpg (49690 Bytes - Tue Mar 23 17:30:16 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#10-TPV táctil.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#10-TPV táctil.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#10-TPV táctil.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#10-TPV táctil.rtf (650 Bytes - Fri Mar 26 13:34:10 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#10-TPV táctil.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#102-Onity (e Inhova).jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#102-Onity (e Inhova).jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#102-Onity (e Inhova).jpg (30003 Bytes - Tue Mar 23 17:45:21 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#102-Onity (e Inhova).jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#102-Onity (e Inhova).rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#102-Onity (e Inhova).rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#102-Onity (e Inhova).rtf (1290 Bytes - Fri Mar 26 16:56:01 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#102-Onity (e Inhova).rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#104-DNI.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#104-DNI.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#104-DNI.jpg (41746 Bytes - Tue Mar 23 17:45:43 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#104-DNI.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#104-DNI.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#104-DNI.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#104-DNI.rtf (573 Bytes - Tue Mar 23 17:28:06 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#104-DNI.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#105-Smart Cards.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#105-Smart Cards.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#105-Smart Cards.jpg (35192 Bytes - Tue Mar 23 17:31:26 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#105-Smart Cards.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#105-Smart Cards.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#105-Smart Cards.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#105-Smart Cards.rtf (3177 Bytes - Tue Apr 20 13:42:53 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#105-Smart Cards.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#107-EAN-128.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#107-EAN-128.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#107-EAN-128.jpg (45278 Bytes - Fri Mar 26 19:02:45 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#107-EAN-128.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#107-EAN-128.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#107-EAN-128.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#107-EAN-128.rtf (2710 Bytes - Mon Mar 29 12:02:07 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#107-EAN-128.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#108-SMS.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#108-SMS.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#108-SMS.jpg (28412 Bytes - Wed Mar 10 11:26:50 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#108-SMS.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#108-SMS.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#108-SMS.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#108-SMS.rtf (862 Bytes - Fri Mar 26 17:15:31 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#108-SMS.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#109-Fidelización.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#109-Fidelización.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#109-Fidelización.jpg (34432 Bytes - Tue Mar 23 17:29:59 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#109-Fidelización.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#109-Fidelización.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#109-Fidelización.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#109-Fidelización.rtf (1353 Bytes - Fri Mar 26 17:24:28 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#109-Fidelización.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#110-Informes definibles.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#110-Informes definibles.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#110-Informes definibles.jpg (36642 Bytes - Tue Mar 23 17:30:39 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#110-Informes definibles.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#110-Informes definibles.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#110-Informes definibles.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#110-Informes definibles.rtf (2132 Bytes - Tue Apr 20 12:57:14 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#110-Informes definibles.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#112-Cegal en Red.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#112-Cegal en Red.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#112-Cegal en Red.jpg (34305 Bytes - Tue Mar 09 10:49:37 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#112-Cegal en Red.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#112-Cegal en Red.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#112-Cegal en Red.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#112-Cegal en Red.rtf (632 Bytes - Tue Mar 23 17:27:48 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#112-Cegal en Red.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#115-Báscula.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#115-Báscula.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#115-Báscula.jpg (45060 Bytes - Tue Mar 23 17:31:47 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#115-Báscula.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#115-Báscula.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#115-Báscula.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#115-Báscula.rtf (460 Bytes - Fri Mar 26 17:26:04 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#115-Báscula.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#118-Verificador de precios.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#118-Verificador de precios.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#118-Verificador de precios.jpg (35966 Bytes - Tue Mar 23 19:02:11 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#118-Verificador de precios.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#118-Verificador de precios.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#118-Verificador de precios.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#118-Verificador de precios.rtf (927 Bytes - Fri Mar 26 17:30:32 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#118-Verificador de precios.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#119-Backup remoto.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#119-Backup remoto.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#119-Backup remoto.jpg (68746 Bytes - Tue Mar 23 17:32:06 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#119-Backup remoto.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#119-Backup remoto.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#119-Backup remoto.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#119-Backup remoto.rtf (729 Bytes - Fri Mar 26 17:33:40 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#119-Backup remoto.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#122-eFactura.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#122-eFactura.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#122-eFactura.jpg (66606 Bytes - Thu Mar 03 17:23:31 2011
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#122-eFactura.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#122-eFactura.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#122-eFactura.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#122-eFactura.rtf (1685 Bytes - Fri Mar 04 11:14:01 2011
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#122-eFactura.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#124-Central de Reservas.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#124-Central de Reservas.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#124-Central de Reservas.jpg (52961 Bytes - Thu Oct 25 14:04:33 2012
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#124-Central de Reservas.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#124-Central de Reservas.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#124-Central de Reservas.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#124-Central de Reservas.rtf (33723 Bytes - Fri Oct 26 20:49:55 2012
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#124-Central de Reservas.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#15-Centralita.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#15-Centralita.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#15-Centralita.jpg (28992 Bytes - Tue Mar 23 17:32:24 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#15-Centralita.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#15-Centralita.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#15-Centralita.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#15-Centralita.rtf (708 Bytes - Fri Mar 26 13:37:40 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#15-Centralita.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#18-Remesas.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#18-Remesas.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#18-Remesas.jpg (23546 Bytes - Tue Mar 23 17:32:48 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#18-Remesas.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#18-Remesas.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#18-Remesas.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#18-Remesas.rtf (1815 Bytes - Thu Mar 25 11:13:46 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#18-Remesas.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#43-PDA Restaurante.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#43-PDA Restaurante.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#43-PDA Restaurante.jpg (40902 Bytes - Thu Mar 25 12:53:00 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#43-PDA Restaurante.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#43-PDA Restaurante.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#43-PDA Restaurante.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#43-PDA Restaurante.rtf (858 Bytes - Fri Mar 26 13:40:49 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#43-PDA Restaurante.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#64-Estadísticas de compras y ventas.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#64-Estadísticas de compras y ventas.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#64-Estadísticas de compras y ventas.jpg (41970 Bytes - Tue Mar 23 17:33:03 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#64-Estadísticas de compras y ventas.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#64-Estadísticas de compras y ventas.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#64-Estadísticas de compras y ventas.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#64-Estadísticas de compras y ventas.rtf (453 Bytes - Fri Mar 12 13:58:30 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#64-Estadísticas de compras y ventas.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#66-SINLI.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#66-SINLI.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#66-SINLI.jpg (32556 Bytes - Fri Mar 26 19:03:02 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#66-SINLI.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#66-SINLI.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#66-SINLI.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#66-SINLI.rtf (1226 Bytes - Fri Mar 26 17:00:55 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#66-SINLI.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#82-TPV Externo.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#82-TPV Externo.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#82-TPV Externo.jpg (49432 Bytes - Tue Mar 23 17:33:34 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#82-TPV Externo.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#82-TPV Externo.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#82-TPV Externo.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#82-TPV Externo.rtf (984 Bytes - Fri Mar 26 14:02:08 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#82-TPV Externo.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#85-SAT.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#85-SAT.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#85-SAT.jpg (42848 Bytes - Fri Mar 26 17:52:33 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#85-SAT.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#85-SAT.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#85-SAT.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#85-SAT.rtf (723 Bytes - Fri Mar 26 12:01:59 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#85-SAT.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#99-PDA Gestión.jpg C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#99-PDA Gestión.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#99-PDA Gestión.jpg (48060 Bytes - Thu Mar 25 12:52:27 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#99-PDA Gestión.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#99-PDA Gestión.rtf C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#99-PDA Gestión.rtf
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\PUBLICIDAD\Mod#99-PDA Gestión.rtf (931 Bytes - Fri Mar 26 10:51:05 2010
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD\Mod#99-PDA Gestión.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\SQLREDIS.EXE C:\INSTALACIONES VERIAL\VARIOS\SQLREDIS.EXE
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\SQLREDIS.EXE (8890528 Bytes - Tue Nov 20 02:46:20 2001
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\SQLREDIS.EXE
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\SQLSetup.exe C:\INSTALACIONES VERIAL\VARIOS\SQLSetup.exe
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\SQLSetup.exe (77824 Bytes - Mon Feb 17 12:37:14 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\SQLSetup.exe
+OK
+copiadir C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\Compress.dll C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\Compress.dll
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\Compress.dll (516608 Bytes - Mon Mar 03 11:43:42 2008
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\Compress.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\INSTALACION CLIENTE.EXE C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\INSTALACION CLIENTE.EXE
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\INSTALACION CLIENTE.EXE (1982976 Bytes - Thu Sep 20 20:57:46 2012
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\INSTALACION CLIENTE.EXE
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\instalar.siv C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\instalar.siv
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\instalar.siv (1075 Bytes - Thu Jan 31 13:59:33 2013
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\instalar.siv
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\TPV Externo para Windows.doc C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\TPV Externo para Windows.doc
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\TPV Externo para Windows.doc (2516992 Bytes - Wed Jan 25 13:48:19 2006
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\TPV Externo para Windows.doc
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\WTPV.EXE C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\WTPV.EXE
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\WTPV.EXE (1484800 Bytes - Mon Jan 21 11:20:33 2013
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\WTPV.EXE
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\WTPV.JPG C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\WTPV.JPG
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\WTPV.JPG (13870 Bytes - Mon Nov 26 18:57:42 2007
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\WTPV.JPG
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\WTPVLOGO.JPG C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\WTPVLOGO.JPG
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\WTPVLOGO.JPG (19996 Bytes - Wed Nov 24 17:45:30 2004
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\WTPVLOGO.JPG
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\WTPVSND1.WAV C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\WTPVSND1.WAV
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\WTPVSND1.WAV (53864 Bytes - Fri Aug 24 13:00:00 2001
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\WTPVSND1.WAV
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\WTPVSND2.WAV C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\WTPVSND2.WAV
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\WTPVSND2.WAV (1192 Bytes - Fri Aug 24 13:00:00 2001
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\WTPVSND2.WAV
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\WTPVSND3.WAV C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\WTPVSND3.WAV
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\WTPVSND3.WAV (8932 Bytes - Fri Aug 24 13:00:00 2001
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\WTPVSND3.WAV
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\WTPVSND4.WAV C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\WTPVSND4.WAV
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\VARIOS\WTPV Externo\WTPVSND4.WAV (25816 Bytes - Tue Sep 01 03:37:06 1998
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo\WTPVSND4.WAV
+OK
+copiadir C:\Users\David\Downloads\verial\Instalaciones Windows\COMPLEMENTOS C:\INSTALACIONES VERIAL\COMPLEMENTOS
+copiadir C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL C:\INSTALACIONES VERIAL\GESTION VERIAL
+copiadir C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Ayuda rapida.htm C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Ayuda rapida.htm
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Ayuda rapida.htm (26403 Bytes - Mon Nov 14 12:21:41 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Ayuda rapida.htm
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Contabilidad.chm C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Contabilidad.chm
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Contabilidad.chm (270967 Bytes - Wed May 24 20:13:36 2006
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Contabilidad.chm
+OK
+copiadir C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnBuscar.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnBuscar.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnBuscar.jpg (6595 Bytes - Wed Sep 07 14:02:23 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnBuscar.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnCancelar.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnCancelar.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnCancelar.jpg (7320 Bytes - Wed Sep 07 13:06:01 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnCancelar.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnComentario.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnComentario.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnComentario.jpg (7092 Bytes - Wed Sep 07 14:11:33 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnComentario.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnEdicionFicha.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnEdicionFicha.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnEdicionFicha.jpg (11997 Bytes - Wed Sep 07 13:26:42 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnEdicionFicha.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnEliminar.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnEliminar.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnEliminar.jpg (6531 Bytes - Wed Sep 07 13:33:45 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnEliminar.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnFichaAnterior.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnFichaAnterior.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnFichaAnterior.jpg (5247 Bytes - Wed Sep 07 13:30:58 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnFichaAnterior.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnFichaPrimera.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnFichaPrimera.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnFichaPrimera.jpg (5419 Bytes - Wed Sep 07 13:30:09 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnFichaPrimera.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnFichaSiguiente.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnFichaSiguiente.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnFichaSiguiente.jpg (5151 Bytes - Wed Sep 07 13:31:18 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnFichaSiguiente.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnFichaUltima.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnFichaUltima.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnFichaUltima.jpg (5327 Bytes - Wed Sep 07 13:31:48 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnFichaUltima.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnGetBuscar.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnGetBuscar.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnGetBuscar.jpg (5115 Bytes - Wed Sep 07 13:03:33 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnGetBuscar.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnGetCombo.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnGetCombo.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnGetCombo.jpg (4992 Bytes - Wed Sep 07 13:00:18 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnGetCombo.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnGetFicha.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnGetFicha.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnGetFicha.jpg (5087 Bytes - Wed Sep 07 13:02:18 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnGetFicha.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnGuardar.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnGuardar.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnGuardar.jpg (7027 Bytes - Wed Sep 07 13:04:52 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnGuardar.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnModificar.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnModificar.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnModificar.jpg (6776 Bytes - Wed Sep 07 13:33:04 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnModificar.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnNuevo.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnNuevo.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\BtnNuevo.jpg (6419 Bytes - Wed Sep 07 13:32:39 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\BtnNuevo.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\CandadoAbierto.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\CandadoAbierto.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\CandadoAbierto.jpg (5100 Bytes - Fri Sep 09 12:39:06 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\CandadoAbierto.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\CandadoCerrado.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\CandadoCerrado.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\CandadoCerrado.jpg (5012 Bytes - Fri Sep 09 12:43:49 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\CandadoCerrado.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\Get.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\Get.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\Get.jpg (6735 Bytes - Wed Sep 07 12:59:36 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\Get.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\IconoBtnAceptar.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\IconoBtnAceptar.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\IconoBtnAceptar.jpg (5068 Bytes - Fri Sep 09 13:14:04 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\IconoBtnAceptar.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\IconoBtnCancelar.jpg C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\IconoBtnCancelar.jpg
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\IconoBtnCancelar.jpg (5136 Bytes - Wed Sep 07 13:16:37 2005
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\IconoBtnCancelar.jpg
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\LogoVerial.png C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\LogoVerial.png
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\LogoVerial.png (2530 Bytes - Thu Jan 03 10:30:56 2008
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\LogoVerial.png
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\Thumbs.db C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images\Thumbs.db
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Fichero sin firma, será borrado: C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\AYUDA\Images\Thumbs.db
+copiadir C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\DATOS C:\INSTALACIONES VERIAL\GESTION VERIAL\DATOS
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\DATOS\VerialInstalacion C:\INSTALACIONES VERIAL\GESTION VERIAL\DATOS\VerialInstalacion
+Thu Dec 04 13:12:13 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\DATOS\VerialInstalacion (17318400 Bytes - Thu Feb 13 10:29:24 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\DATOS\VerialInstalacion
+OK
+copiadir C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files C:\INSTALACIONES VERIAL\GESTION VERIAL\files
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Agenda.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Agenda.dll
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Agenda.dll (405504 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Agenda.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Aparatos.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Aparatos.dll
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Aparatos.dll (2236416 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Aparatos.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Arboles.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Arboles.dll
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Arboles.dll (569344 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Arboles.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\AreasVenta.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\AreasVenta.dll
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\AreasVenta.dll (647168 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\AreasVenta.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Arqueos.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Arqueos.dll
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Arqueos.dll (1388544 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Arqueos.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Articulos.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Articulos.dll
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Articulos.dll (8704000 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Articulos.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Asientos.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Asientos.dll
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Asientos.dll (1462272 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Asientos.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\BackupAgent.EXE C:\INSTALACIONES VERIAL\GESTION VERIAL\files\BackupAgent.EXE
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\BackupAgent.EXE (110592 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\BackupAgent.EXE
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\BackupAgent.exe.local C:\INSTALACIONES VERIAL\GESTION VERIAL\files\BackupAgent.exe.local
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\BackupAgent.exe.local (0 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\BackupAgent.exe.local
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\BackupFTP.EXE C:\INSTALACIONES VERIAL\GESTION VERIAL\files\BackupFTP.EXE
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\BackupFTP.EXE (147456 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\BackupFTP.EXE
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\BackupFTP.exe.local C:\INSTALACIONES VERIAL\GESTION VERIAL\files\BackupFTP.exe.local
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\BackupFTP.exe.local (0 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\BackupFTP.exe.local
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\BackupHF.EXE C:\INSTALACIONES VERIAL\GESTION VERIAL\files\BackupHF.EXE
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\BackupHF.EXE (159744 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\BackupHF.EXE
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\BackupHF.exe.local C:\INSTALACIONES VERIAL\GESTION VERIAL\files\BackupHF.exe.local
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\BackupHF.exe.local (0 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\BackupHF.exe.local
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Bancos.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Bancos.dll
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Bancos.dll (458752 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Bancos.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\BorrarDatos.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\BorrarDatos.dll
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\BorrarDatos.dll (548864 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\BorrarDatos.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Centralita.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Centralita.dll
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Centralita.dll (155648 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Centralita.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Clientes.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Clientes.dll
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Clientes.dll (2150400 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Clientes.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Comisiones.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Comisiones.dll
+Thu Dec 04 13:12:14 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Comisiones.dll (794624 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Comisiones.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Compress.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Compress.dll
+Thu Dec 04 13:12:15 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Compress.dll (541184 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Compress.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Comunicaciones.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Comunicaciones.dll
+Thu Dec 04 13:12:15 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Comunicaciones.dll (1323008 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Comunicaciones.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Configuraciones.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Configuraciones.dll
+Thu Dec 04 13:12:15 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Configuraciones.dll (4247552 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Configuraciones.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Cons_Lib.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Cons_Lib.dll
+Thu Dec 04 13:12:15 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Cons_Lib.dll (1118208 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Cons_Lib.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Cuentas.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Cuentas.dll
+Thu Dec 04 13:12:15 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Cuentas.dll (1384448 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Cuentas.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\DataTools.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\DataTools.dll
+Thu Dec 04 13:12:15 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\DataTools.dll (4739072 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\DataTools.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Data_Imp_Exp.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Data_Imp_Exp.dll
+Thu Dec 04 13:12:15 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Data_Imp_Exp.dll (1474560 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Data_Imp_Exp.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\DocCli.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\DocCli.dll
+Thu Dec 04 13:12:15 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\DocCli.dll (8368128 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\DocCli.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\DocHotel.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\DocHotel.dll
+Thu Dec 04 13:12:15 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\DocHotel.dll (7155712 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\DocHotel.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\DocPro.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\DocPro.dll
+Thu Dec 04 13:12:15 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\DocPro.dll (6582272 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\DocPro.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\DOT.EXE C:\INSTALACIONES VERIAL\GESTION VERIAL\files\DOT.EXE
+Thu Dec 04 13:12:15 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\DOT.EXE (458752 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\DOT.EXE
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\DOT.exe.local C:\INSTALACIONES VERIAL\GESTION VERIAL\files\DOT.exe.local
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\DOT.exe.local (0 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\DOT.exe.local
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Fabricantes.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Fabricantes.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Fabricantes.dll (503808 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Fabricantes.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Familias.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Familias.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Familias.dll (438272 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Familias.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\FANDE.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\FANDE.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\FANDE.dll (585728 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\FANDE.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Filiales.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Filiales.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Filiales.dll (311296 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Filiales.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\FtpCopy.exe C:\INSTALACIONES VERIAL\GESTION VERIAL\files\FtpCopy.exe
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\FtpCopy.exe (143872 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\FtpCopy.exe
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\FTPDMIN.EXE C:\INSTALACIONES VERIAL\GESTION VERIAL\files\FTPDMIN.EXE
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\FTPDMIN.EXE (109056 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\FTPDMIN.EXE
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\FtpTool.exe C:\INSTALACIONES VERIAL\GESTION VERIAL\files\FtpTool.exe
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\FtpTool.exe (136192 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\FtpTool.exe
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\FTPUPDATE.EXE C:\INSTALACIONES VERIAL\GESTION VERIAL\files\FTPUPDATE.EXE
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\FTPUPDATE.EXE (155648 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\FTPUPDATE.EXE
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\FtpUpdate.exe.local C:\INSTALACIONES VERIAL\GESTION VERIAL\files\FtpUpdate.exe.local
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\FtpUpdate.exe.local (0 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\FtpUpdate.exe.local
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Gestion.exe C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Gestion.exe
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Gestion.exe (3244032 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Gestion.exe
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Gestion.exe.local C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Gestion.exe.local
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Gestion.exe.local (0 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Gestion.exe.local
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Globales.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Globales.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Globales.dll (2052096 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Globales.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Grupos.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Grupos.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Grupos.dll (225280 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Grupos.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Habitaciones.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Habitaciones.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Habitaciones.dll (1220608 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Habitaciones.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\HistoricosHotel.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\HistoricosHotel.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\HistoricosHotel.dll (2756608 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\HistoricosHotel.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Idioma.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Idioma.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Idioma.dll (151552 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Idioma.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Impuestos.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Impuestos.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Impuestos.dll (442368 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Impuestos.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Incidencias.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Incidencias.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Incidencias.dll (434176 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Incidencias.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\InfoAEAT.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\InfoAEAT.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\InfoAEAT.dll (1556480 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\InfoAEAT.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Informacion legal.rtf C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Informacion legal.rtf
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Informacion legal.rtf (22981 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Informacion legal.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Inmovilizado.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Inmovilizado.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Inmovilizado.dll (585728 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Inmovilizado.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Instalaciones.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Instalaciones.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Instalaciones.dll (983040 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Instalaciones.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Licencia.rtf C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Licencia.rtf
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Licencia.rtf (31032 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Licencia.rtf
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Lotes.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Lotes.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Lotes.dll (258048 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Lotes.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\memoria.exe C:\INSTALACIONES VERIAL\GESTION VERIAL\files\memoria.exe
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\memoria.exe (57344 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\memoria.exe
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\MetodosPago.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\MetodosPago.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\MetodosPago.dll (229376 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\MetodosPago.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Nombres.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Nombres.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Nombres.dll (557056 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Nombres.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Periodicidades.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Periodicidades.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Periodicidades.dll (143360 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Periodicidades.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Personal.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Personal.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Personal.dll (942080 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Personal.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Proveedores.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Proveedores.dll
+Thu Dec 04 13:12:16 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Proveedores.dll (1093632 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Proveedores.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\PServer.exe C:\INSTALACIONES VERIAL\GESTION VERIAL\files\PServer.exe
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\PServer.exe (159232 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\PServer.exe
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\regdlls.bat C:\INSTALACIONES VERIAL\GESTION VERIAL\files\regdlls.bat
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\regdlls.bat (1864 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\regdlls.bat
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Remesas.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Remesas.dll
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Remesas.dll (2007040 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Remesas.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Resizer.exe C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Resizer.exe
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Resizer.exe (12800 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Resizer.exe
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Restaurante.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Restaurante.dll
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Restaurante.dll (1290240 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Restaurante.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\SCard.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\SCard.dll
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\SCard.dll (241664 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\SCard.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Series.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Series.dll
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Series.dll (233472 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Series.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Tarifas.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Tarifas.dll
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Tarifas.dll (1273856 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Tarifas.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\TPV_Ext.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\TPV_Ext.dll
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\TPV_Ext.dll (970752 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\TPV_Ext.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\TPV_INet.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\TPV_INet.dll
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\TPV_INet.dll (1679360 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\TPV_INet.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\TUNNEL.exe C:\INSTALACIONES VERIAL\GESTION VERIAL\files\TUNNEL.exe
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\TUNNEL.exe (196608 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\TUNNEL.exe
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Ubicaciones.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Ubicaciones.dll
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\Ubicaciones.dll (569344 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\Ubicaciones.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\VERIAL.LST C:\INSTALACIONES VERIAL\GESTION VERIAL\files\VERIAL.LST
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\VERIAL.LST (1470 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\VERIAL.LST
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\VERIAL.SIG C:\INSTALACIONES VERIAL\GESTION VERIAL\files\VERIAL.SIG
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\VERIAL.SIG (21 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\VERIAL.SIG
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\VerialTools.dll C:\INSTALACIONES VERIAL\GESTION VERIAL\files\VerialTools.dll
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\files\VerialTools.dll (110592 Bytes - Mon Feb 17 12:52:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\files\VerialTools.dll
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\INSTALACION CLIENTE.EXE C:\INSTALACIONES VERIAL\GESTION VERIAL\INSTALACION CLIENTE.EXE
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\INSTALACION CLIENTE.EXE (2018304 Bytes - Mon Nov 25 18:09:38 2013
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\INSTALACION CLIENTE.EXE
+OK
+copyfile C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\instalar.siv C:\INSTALACIONES VERIAL\GESTION VERIAL\instalar.siv
+Thu Dec 04 13:12:17 2014
+
+04/12/2014 13:12
+Copiando fichero C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\instalar.siv (8461 Bytes - Mon Feb 17 12:54:00 2014
+) 
+** CRC OK ** C:\INSTALACIONES VERIAL\GESTION VERIAL\instalar.siv
+OK
+copiadir C:\Users\David\Downloads\verial\Instalaciones Windows\GESTION VERIAL\report C:\INSTALACIONES VERIAL\GESTION VERIAL\report
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL\COMPLEMENTOS
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL\GESTION VERIAL
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL\GESTION VERIAL\AYUDA\Images
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL\GESTION VERIAL\DATOS
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL\GESTION VERIAL\files
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL\GESTION VERIAL\report
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL\VARIOS
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL\VARIOS\AEAT
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL\VARIOS\AEAT\log
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL\VARIOS\AEAT\motor
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL\VARIOS\OCX
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL\VARIOS\PUBLICIDAD
+Borrando ficheros obsoletos en: C:\INSTALACIONES VERIAL\VARIOS\WTPV Externo
+Thu Dec 04 13:12:19 2014
+
+04/12/2014 13:12
+Copiando fichero C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\vb6stkit.dll (101888 Bytes - Thu Jun 03 02:00:00 1999
+) OK
+
+REGCOPY: --- Fichero protegido WFP: comcat.dll --- (Saltado)
+
+Thu Dec 04 13:12:19 2014
+
+04/12/2014 13:12
+Copiando fichero C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\vb6es.dll (119568 Bytes - Mon Oct 02 02:00:00 2000
+) OK
+
+REGCOPY: --- Fichero protegido WFP: asycfilt.dll --- (Saltado)
+
+Thu Dec 04 13:12:20 2014
+
+04/12/2014 13:12
+Copiando fichero C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\msvbvm60.dll (1386496 Bytes - Sun Feb 22 23:00:00 2004
+) C:\WINDOWS\system32\msvbvm60.dll Desregistrado correctamente.
+ERROR -2
+
+REGCOPY: --- Fichero protegido WFP: msvcrt.dll --- (Saltado)
+
+
+REGCOPY: --- Fichero protegido WFP: scrrun.dll --- (Saltado)
+
+
+REGCOPY: --- Fichero protegido WFP: stdole2.tlb --- (Saltado)
+
+Thu Dec 04 13:12:22 2014
+
+04/12/2014 13:12
+Copiando fichero C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\rchtxes.dll (34816 Bytes - Tue Jul 28 02:00:00 1998
+) OK
+
+REGCOPY: --- Fichero protegido WFP: riched32.dll --- (Saltado)
+
+
+REGCOPY: --- Fichero protegido WFP: riched20.dll --- (Saltado)
+
+Thu Dec 04 13:12:22 2014
+
+04/12/2014 13:12
+Copiando fichero C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\cmdlges.dll (33280 Bytes - Tue Jul 28 02:00:00 1998
+) OK
+Thu Dec 04 13:12:22 2014
+
+04/12/2014 13:12
+Copiando fichero C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\mscmces.dll (140800 Bytes - Tue Jul 28 02:00:00 1998
+) OK
+Thu Dec 04 13:12:22 2014
+
+04/12/2014 13:12
+Copiando fichero C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\mscomes.dll (14336 Bytes - Tue Jul 28 02:00:00 1998
+) OK
+Thu Dec 04 13:12:22 2014
+
+04/12/2014 13:12
+Copiando fichero C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\scrrnes.dll (12288 Bytes - Fri Mar 28 13:00:00 2003
+) OK
+Thu Dec 04 13:12:22 2014
+
+04/12/2014 13:12
+Copiando fichero C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\comdlg32.ocx (152848 Bytes - Mon Mar 08 23:00:00 2004
+) C:\WINDOWS\system32\comdlg32.ocx Registrado correctamente.
+OK
+Thu Dec 04 13:12:22 2014
+
+04/12/2014 13:12
+Copiando fichero C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\mscomctl.ocx (1081616 Bytes - Mon Mar 08 23:00:00 2004
+) C:\WINDOWS\system32\mscomctl.ocx Registrado correctamente.
+OK
+Thu Dec 04 13:12:22 2014
+
+04/12/2014 13:12
+Copiando fichero C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\richtx32.ocx (212240 Bytes - Mon Mar 08 23:00:00 2004
+) C:\WINDOWS\system32\richtx32.ocx Registrado correctamente.
+OK
+Thu Dec 04 13:12:23 2014
+
+04/12/2014 13:12
+Copiando fichero C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\tabctl32.ocx (224016 Bytes - Mon Mar 08 23:00:00 2004
+) C:\WINDOWS\system32\tabctl32.ocx Registrado correctamente.
+OK
+Thu Dec 04 13:12:23 2014
+
+04/12/2014 13:12
+Copiando fichero C:\INSTALACIONES VERIAL\VARIOS\DLLS COMUNES\mscomm32.ocx (103744 Bytes - Wed Jun 24 02:00:00 1998
+) C:\WINDOWS\system32\mscomm32.ocx Registrado correctamente.
+OK
+Thu Dec 04 13:12:23 2014
+
+04/12/2014 13:12
+Copiando fichero C:\INSTALACIONES VERIAL\VARIOS\OCX\VerialCtl.ocx (2150400 Bytes - Mon Feb 17 12:52:00 2014
+) C:\WINDOWS\system32\VerialCtl.ocx Registrado correctamente.
+OK
+Thu Dec 04 13:12:23 2014
+
+04/12/2014 13:12
+Copiando fichero C:\INSTALACIONES VERIAL\VARIOS\OCX\VerialDataComponents.ocx (811008 Bytes - Mon Feb 17 12:52:00 2014
+) C:\WINDOWS\system32\VerialDataComponents.ocx Registrado correctamente.
+OK
+Ejecutando: C:\INSTALACIONES VERIAL\VARIOS\SQLSetup.exe C:\INSTALACIONES VERIAL
+SPAWN C:\INSTALACIONES VERIAL\VARIOS\SQLSetup.exe C:\INSTALACIONES VERIAL:
+SPAWN C:\INSTALACIONES VERIAL\VARIOS\SQLSetup.exe C:\INSTALACIONES VERIAL: 1
